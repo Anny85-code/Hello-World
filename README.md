@@ -19,7 +19,9 @@ The project is a welcome page, welcoming anyone to microverse.
 👤 Author
 
 GitHub: @Anny85-code
+
 Twitter: @Annyudo8
+
 LinkedIn: https://www.linkedin.com/in/aniekan-udo
 
 🤝 Contributing
